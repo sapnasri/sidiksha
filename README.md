@@ -1,3 +1,5 @@
 # This Sidiksha's Project
 
-## Sample practive project
+## Sample practice project
+
+Here I practice the HTML and Javascript
